@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638598747192912034
+      ticks: 638603064442686299
     m_Hash: 674148673
   m_LockFileStatus:
     m_FilePath: C:/Users/shado/OneDrive/Documentos/GitHub/DesetTress/Desert/Packages/packages-lock.json
@@ -13,10 +13,18 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638598747596986953
-    m_Hash: 524882299
+      ticks: 638603065785716631
+    m_Hash: 4073460640
 m_EmbeddedPackageManifests:
-  m_ManifestsStatus: {}
+  m_ManifestsStatus:
+    C:/Users/shado/OneDrive/Documentos/GitHub/DesetTress/Desert/Packages/com.z3y.shaders/package.json:
+      m_FilePath: C:/Users/shado/OneDrive/Documentos/GitHub/DesetTress/Desert/Packages/com.z3y.shaders/package.json
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 638597010155203932
+      m_Hash: 789247058
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/shado/OneDrive/Documentos/GitHub/DesetTress/Desert/Packages
@@ -2663,6 +2671,60 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  fingerprint: 
+- packageId: com.z3y.shaders@file:C:\Users\shado\OneDrive\Documentos\GitHub\DesetTress\Desert\Packages\com.z3y.shaders
+  testable: 1
+  isDirectDependency: 1
+  version: 3.3.5
+  source: 3
+  resolvedPath: C:\Users\shado\OneDrive\Documentos\GitHub\DesetTress\Desert\Packages\com.z3y.shaders
+  assetPath: Packages/com.z3y.shaders
+  name: com.z3y.shaders
+  displayName: Lit Shaders
+  author:
+    name: z3y
+    email: 
+    url: https://github.com/z3y
+  category: 
+  type: 
+  description: A Standard Shader and Surface Shaders alternative for Unity for Built-In
+    pipeline and forward rendering (VRChat)
+  status: 0
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    recommended: 
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0

@@ -135,6 +135,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.z3y.shaders": {
+      "version": "file:com.z3y.shaders",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
