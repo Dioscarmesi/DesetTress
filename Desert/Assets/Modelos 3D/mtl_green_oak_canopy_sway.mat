@@ -15,8 +15,8 @@ Material:
   - _ALPHATEST_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: 2450
   stringTagMap:
     RenderType: TransparentCutout
@@ -66,7 +66,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 9ea8d05fa0af56b4fbbd5f7d540d485a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 29e0f90c28aa35645b75cb3a78dfdf44, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
@@ -144,7 +144,7 @@ Material:
     - _ParallaxOffset: 0
     - _ParallaxSteps: 16
     - _Reflectance: 0.5
-    - _Roughness: 0.5
+    - _Roughness: 1
     - _Saturation: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
